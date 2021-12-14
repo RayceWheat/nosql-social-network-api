@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RayceWheat/nosql-social-network-api#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.1",
     "mongoose": "^6.1.1"
   }
 }
